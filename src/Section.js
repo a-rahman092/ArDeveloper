@@ -66,7 +66,7 @@ class Section extends React.Component {
                   </h1>
                   <hr className='hr-light' />
                   <h6 className='mb-4'>
-                    HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, REACT, PHP & MANY MORE
+                    CHOOSE OUR WEB DESIGN SERVICES & YOUR BUSINESS CAN COUNT ON 100 PERCENT TRANSPARENCY
                   </h6>
                   <MDBBtn color='white'>Download</MDBBtn>
                   <MDBBtn outline color='white'>
